@@ -34,8 +34,7 @@ This Power BI dashboard provides a comprehensive overview of key HR metrics, hel
 1. Clone this repo:
  https://github.com/dee12analyst/HR-Analytics-Dashboard
 
-Dashboard Preview:
-
+Dashboard Preview: https://github.com/dee12analyst/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20DB%20Screenshot.png
 
 🙌 Author
 Deepa Thakur
